@@ -1,6 +1,6 @@
 # React Portfolio
 
-## a portfolio for developers
+
 
 ![screenshot](https://drive.google.com/file/d/1RUfh30WUMx5u4ab5xGdnC02H6_UpMQFk/view?usp=drive_link)
 
